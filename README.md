@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/janjaviersihombing/janjaviersihombing/blob/main/Zenless%20Zone%20Zero.jpeg"  />
+<img align="right" src="https://github.com/janjaviersihombing/janjaviersihombing/blob/main/miyabi-hoshimi-zenless-zone-zero.gif"  />
 
 ###
 
